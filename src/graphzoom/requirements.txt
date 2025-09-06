@@ -5,5 +5,5 @@ scikit-learn==1.5.0
 gensim==3.4.0
 theano==1.0.4
 tensorboard==1.8.0
-tensorflow==1.8.0
-torch==2.7.0
+tensorflow==2.11.1
+torch==2.8.0
